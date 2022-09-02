@@ -1,0 +1,6996 @@
+fileFormatVersion: 2
+guid: 2e15f929cf899514793eea708ee982ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2980762531827915241
+    second: Pose
+  - first:
+      213: 7129158870041112216
+    second: PoseEscudoRigth
+  - first:
+      213: -380807128096221883
+    second: PoseEscudoLeft
+  - first:
+      213: 8367902017205463639
+    second: Walk
+  - first:
+      213: 8007918874271134641
+    second: Walk2
+  - first:
+      213: 6542950096962636715
+    second: Walk3
+  - first:
+      213: 8880453683742451552
+    second: Walk4
+  - first:
+      213: 3700782342339862444
+    second: Walk5
+  - first:
+      213: -801836299083498417
+    second: Walk6
+  - first:
+      213: 7455996297363647891
+    second: WalkSword
+  - first:
+      213: -2493740584976070123
+    second: WalkSword2
+  - first:
+      213: -4184371553795916961
+    second: WalkSword3
+  - first:
+      213: -1690104888586664894
+    second: WalkSword4
+  - first:
+      213: 864533220839739567
+    second: WalkSword5
+  - first:
+      213: -7671699004041873025
+    second: WalkSword6
+  - first:
+      213: -3024859887759228612
+    second: WalkSwordLeft
+  - first:
+      213: -8515072630689373607
+    second: WalkSwordLeft2
+  - first:
+      213: -932008334127157381
+    second: WalkSwordLeft3
+  - first:
+      213: 5519574582763346006
+    second: WalkSwordLeft4
+  - first:
+      213: -1641739415970969993
+    second: WalkSwordLeft5
+  - first:
+      213: -3654865089743309113
+    second: WalkSwordLeft6
+  - first:
+      213: -2644920168034942098
+    second: Running
+  - first:
+      213: 236199464640789700
+    second: Running2
+  - first:
+      213: 7440038865674999516
+    second: Running3
+  - first:
+      213: 2635913712761472425
+    second: Running4
+  - first:
+      213: 3186846897472972212
+    second: Running5
+  - first:
+      213: -968163961212451761
+    second: Running6
+  - first:
+      213: -1923617236612504098
+    second: Running7
+  - first:
+      213: -7144769373259908326
+    second: Running8
+  - first:
+      213: -3029154439658349738
+    second: RunningLeft
+  - first:
+      213: 5544812888435063362
+    second: RunningLeft2
+  - first:
+      213: -2287875758532099656
+    second: RunningLeft3
+  - first:
+      213: 2704144754928162649
+    second: RunningLeft4
+  - first:
+      213: 1072818536536102886
+    second: RunningLeft5
+  - first:
+      213: -590302413691529852
+    second: RunningLeft6
+  - first:
+      213: -6459669079000291401
+    second: RunningLeft7
+  - first:
+      213: 3110581650560570521
+    second: RunningLeft8
+  - first:
+      213: -7568006818982858240
+    second: RunningSword
+  - first:
+      213: 1189102776449804662
+    second: RunningSword2
+  - first:
+      213: 4365170958522279146
+    second: RunningSword3
+  - first:
+      213: 9215859806064181406
+    second: RunningSword4
+  - first:
+      213: 2569571048152228366
+    second: RunningSword5
+  - first:
+      213: 6675098326247725674
+    second: RunningSword6
+  - first:
+      213: -361461425629434248
+    second: RunningSword7
+  - first:
+      213: 2184720567028803549
+    second: RunningSword8
+  - first:
+      213: -1028023919929071923
+    second: RunningSwordLeft
+  - first:
+      213: 2240603136719665035
+    second: RunningSwordLeft2
+  - first:
+      213: 3001445818099744590
+    second: RunningSwordLeft3
+  - first:
+      213: -6210292437094617390
+    second: RunningSwordLeft4
+  - first:
+      213: -8900508312484730977
+    second: RunningSwordLeft5
+  - first:
+      213: -716537569570021023
+    second: RunningSwordLeft6
+  - first:
+      213: -8932554913964544744
+    second: RunningSwordLeft7
+  - first:
+      213: 141833378418102357
+    second: RunningSwordLeft8
+  - first:
+      213: -3054346736925494456
+    second: Jump
+  - first:
+      213: -5904881819219070479
+    second: Jump2
+  - first:
+      213: 2204822269717864371
+    second: Jump3
+  - first:
+      213: 6636239692240350221
+    second: Jump4
+  - first:
+      213: 2513544030824219308
+    second: JumpSword
+  - first:
+      213: 728935645870022329
+    second: JumpSword2
+  - first:
+      213: 820959169745638223
+    second: JumpSword3
+  - first:
+      213: 8466366215314755173
+    second: JumpSword4
+  - first:
+      213: 4987818886959703166
+    second: JumpSwordLeft
+  - first:
+      213: 827625841461535550
+    second: JumpSwordLeft2
+  - first:
+      213: 7154882074320535159
+    second: JumpSwordLeft3
+  - first:
+      213: -3387998526118697894
+    second: JumpSwordLeft4
+  - first:
+      213: 1414853806339884712
+    second: JumpSwordLeft5
+  - first:
+      213: -1701554550174052020
+    second: Fall
+  - first:
+      213: -6181292345582989130
+    second: Fall2
+  - first:
+      213: -4843389336615863822
+    second: Fall3
+  - first:
+      213: -2753188820619575371
+    second: Fall4
+  - first:
+      213: -8546662392788158438
+    second: Fall5
+  - first:
+      213: -2742889664157425895
+    second: FallSword
+  - first:
+      213: 2331245454003003876
+    second: FallSword2
+  - first:
+      213: 8724668463190216583
+    second: FallSword3
+  - first:
+      213: 9062893887597057332
+    second: FallSword4
+  - first:
+      213: 1276493636083189530
+    second: FallSword5
+  - first:
+      213: 5090974151180201760
+    second: FallSwordLeft
+  - first:
+      213: -7428685036580935217
+    second: FallSwordLeft2
+  - first:
+      213: -3819265826871459901
+    second: FallSwordLeft3
+  - first:
+      213: 1923404548338307261
+    second: FallSwordLeft4
+  - first:
+      213: 7853211213883660269
+    second: FallSwordLeft5
+  - first:
+      213: 7051848321140722814
+    second: Damage
+  - first:
+      213: 2772606303435088069
+    second: Damage2
+  - first:
+      213: -4971112421564199103
+    second: Damage3
+  - first:
+      213: 531335657078904068
+    second: Damage4
+  - first:
+      213: -1751366325206899192
+    second: Damage5
+  - first:
+      213: -7550783758358091073
+    second: DamageSword
+  - first:
+      213: -8592298583434786077
+    second: DamageSword2
+  - first:
+      213: 3729230291509284852
+    second: DamageSword3
+  - first:
+      213: 6358717005022065733
+    second: DamageSword4
+  - first:
+      213: -6998738298739583643
+    second: DamageSword5
+  - first:
+      213: 1288497169600640927
+    second: DamageSwordLeft
+  - first:
+      213: 8106038888081722123
+    second: DamageSwordLeft2
+  - first:
+      213: -886958493935463832
+    second: DamageSwordLeft3
+  - first:
+      213: 1294668238126613655
+    second: DamageSwordLeft4
+  - first:
+      213: -8140118663249097629
+    second: DamageSwordLeft5
+  - first:
+      213: -7390940573696678210
+    second: Damage6
+  - first:
+      213: -7529374417407838675
+    second: Damage7
+  - first:
+      213: -7331185993011802322
+    second: Damage8
+  - first:
+      213: 6561820039296150958
+    second: Damage9
+  - first:
+      213: -5194606846926828386
+    second: DamageSword6
+  - first:
+      213: 5070340409717116197
+    second: DamageSword7
+  - first:
+      213: 6054427547809898478
+    second: DamageSword8
+  - first:
+      213: 4876870584245521591
+    second: DamageSword9
+  - first:
+      213: -4233617544032857175
+    second: DamageSwordLeft6
+  - first:
+      213: -3758154114782594073
+    second: DamageSwordLeft7
+  - first:
+      213: -9136204384256680093
+    second: DamageSwordLeft8
+  - first:
+      213: 254294483869468239
+    second: DamageSwordLeft9
+  - first:
+      213: 1805862610148112331
+    second: BattlePoseSword
+  - first:
+      213: 594091796442005213
+    second: BattlePoseSword2
+  - first:
+      213: -5285039995344187011
+    second: BattlePoseSword3
+  - first:
+      213: 6869024453097741584
+    second: BattlePoseSword4
+  - first:
+      213: 6844920685758420385
+    second: BattlePoseSword5
+  - first:
+      213: -8836098301290886167
+    second: BattlePoseSword6
+  - first:
+      213: 3895503729115218517
+    second: BattlePose
+  - first:
+      213: -2719642967923480214
+    second: BattlePose2
+  - first:
+      213: -4647467071134710948
+    second: BattlePose3
+  - first:
+      213: 6923143565993621520
+    second: BattlePose4
+  - first:
+      213: -197670658657510214
+    second: BattlePose5
+  - first:
+      213: -1517869319228707372
+    second: BattlePose6
+  - first:
+      213: 5949754843974788895
+    second: BattlePoseSwordLeft
+  - first:
+      213: 1921822153914415554
+    second: BattlePoseSwordLeft2
+  - first:
+      213: 4220666827392444232
+    second: BattlePoseSwordLeft3
+  - first:
+      213: -2338159912983706870
+    second: BattlePoseSwordLeft4
+  - first:
+      213: 4738556118712436396
+    second: BattlePoseSwordLeft5
+  - first:
+      213: -1837436181915958715
+    second: BattlePoseSwordLeft6
+  - first:
+      213: -7850583986317013788
+    second: AttackDown
+  - first:
+      213: 410007795083225575
+    second: AttackDown2
+  - first:
+      213: 5834721595655643534
+    second: AttackDown3
+  - first:
+      213: -1030302743324696151
+    second: AttackDown4
+  - first:
+      213: 5527582344970616159
+    second: AttackDown6
+  - first:
+      213: 8793108857002036108
+    second: AttackDown7
+  - first:
+      213: -6030318437067317955
+    second: AttackDown8
+  - first:
+      213: -7378800446111232475
+    second: AttackDown9
+  - first:
+      213: -4217851810493813555
+    second: AttackDown10
+  - first:
+      213: -8390229042848744508
+    second: AttackDown11
+  - first:
+      213: 5275887343210946139
+    second: AirAttack3
+  - first:
+      213: 6417081759710441987
+    second: AirAttack4
+  - first:
+      213: -3200826891340666573
+    second: AirAttack
+  - first:
+      213: -6875634055624933337
+    second: AirAttack2
+  - first:
+      213: -2820057211486528011
+    second: Effect
+  - first:
+      213: 1621267169548914204
+    second: Effect2
+  - first:
+      213: -1630839320455572360
+    second: Effect3
+  - first:
+      213: -6685595685299619896
+    second: Congratulation
+  - first:
+      213: 4045510497631909399
+    second: Congratulation2
+  - first:
+      213: -2790682085571710689
+    second: Congratulation3
+  - first:
+      213: -6552414087902138472
+    second: LinkNecesarioo_146
+  - first:
+      213: 1299343184770612390
+    second: LinkNecesarioo_147
+  - first:
+      213: 6503380888352057269
+    second: LinkNecesarioo_148
+  - first:
+      213: -7029899335198412374
+    second: LinkNecesarioo_149
+  - first:
+      213: 5212444083418503749
+    second: LinkNecesarioo_150
+  - first:
+      213: -3191611515088467227
+    second: LinkNecesarioo_151
+  - first:
+      213: 6553294287937840913
+    second: LinkNecesarioo_152
+  - first:
+      213: 1718431282611370927
+    second: LinkNecesarioo_153
+  - first:
+      213: 488376823534349729
+    second: LinkNecesarioo_154
+  - first:
+      213: -443337704143905291
+    second: LinkNecesarioo_155
+  - first:
+      213: -6996467660995292559
+    second: LinkNecesarioo_156
+  - first:
+      213: 2698513758298497337
+    second: LinkNecesarioo_157
+  - first:
+      213: -2660100151324058555
+    second: LinkNecesarioo_158
+  - first:
+      213: -6498816589270965623
+    second: LinkNecesarioo_159
+  - first:
+      213: 7706362378888416742
+    second: LinkNecesarioo_160
+  - first:
+      213: 750612969002862075
+    second: LinkNecesarioo_161
+  - first:
+      213: -3196389073564950958
+    second: LinkNecesarioo_162
+  - first:
+      213: -3413372766693492491
+    second: LinkNecesarioo_163
+  - first:
+      213: -3594036487839725185
+    second: LinkNecesarioo_164
+  - first:
+      213: -5960042655440005792
+    second: LinkNecesarioo_165
+  - first:
+      213: -1756294569510572729
+    second: LinkNecesarioo_166
+  - first:
+      213: -1151681578098629172
+    second: LinkNecesarioo_167
+  - first:
+      213: 8649603701015348399
+    second: LinkNecesarioo_168
+  - first:
+      213: -4388569359833034925
+    second: LinkNecesarioo_169
+  - first:
+      213: -5081522209151859413
+    second: LinkNecesarioo_170
+  - first:
+      213: -1041283451253992920
+    second: LinkNecesarioo_171
+  - first:
+      213: 238934903305269032
+    second: LinkNecesarioo_172
+  - first:
+      213: 6751628507269075023
+    second: LinkNecesarioo_173
+  - first:
+      213: -3051712749924899097
+    second: LinkNecesarioo_174
+  - first:
+      213: -219888449182667817
+    second: LinkNecesarioo_175
+  - first:
+      213: 2844065703606759456
+    second: Sword15
+  - first:
+      213: -899577648978729606
+    second: Sword16
+  - first:
+      213: 4033533785242218060
+    second: LinkNecesarioo_178
+  - first:
+      213: 2810357799286509045
+    second: LinkNecesarioo_179
+  - first:
+      213: -380952941442973156
+    second: LinkNecesarioo_180
+  - first:
+      213: 4391483524055376677
+    second: LinkNecesarioo_181
+  - first:
+      213: 3058134730377825069
+    second: LinkNecesarioo_182
+  - first:
+      213: 8955395060975675044
+    second: LinkNecesarioo_183
+  - first:
+      213: 1457741545698282442
+    second: LinkNecesarioo_184
+  - first:
+      213: -235422921068664468
+    second: LinkNecesarioo_185
+  - first:
+      213: -7536601259372683782
+    second: LinkNecesarioo_186
+  - first:
+      213: -3468713419213893810
+    second: LinkNecesarioo_187
+  - first:
+      213: 9166885332264443822
+    second: LinkNecesarioo_188
+  - first:
+      213: 5446797963547984129
+    second: LinkNecesarioo_189
+  - first:
+      213: 846710597207244689
+    second: LinkNecesarioo_190
+  - first:
+      213: 3269883084239275748
+    second: LinkNecesarioo_191
+  - first:
+      213: 3597139927538462976
+    second: LinkNecesarioo_192
+  - first:
+      213: 3546489324031063967
+    second: Sword14
+  - first:
+      213: 1116949736033223777
+    second: SwordWood11
+  - first:
+      213: 6749009995119946870
+    second: SwordWood10
+  - first:
+      213: 4505973746607409322
+    second: SwordWood9
+  - first:
+      213: 8031573160986938166
+    second: CongratulationSword
+  - first:
+      213: -3549183216864161452
+    second: CongratulationSword2
+  - first:
+      213: -1086762149060772789
+    second: CongratulationSword3
+  - first:
+      213: 7345259799927228327
+    second: LinkNecesarioo_200
+  - first:
+      213: -3716110389697629997
+    second: LinkNecesarioo_201
+  - first:
+      213: -7845168356737925594
+    second: LinkNecesarioo_202
+  - first:
+      213: -1325742716666221191
+    second: LinkNecesarioo_203
+  - first:
+      213: -4570271757279028603
+    second: LinkNecesarioo_204
+  - first:
+      213: 102540131265261774
+    second: LinkNecesarioo_205
+  - first:
+      213: 8770117830610083777
+    second: LinkNecesarioo_206
+  - first:
+      213: 5089167921400724315
+    second: LinkNecesarioo_207
+  - first:
+      213: 3353696872531336306
+    second: LinkNecesarioo_208
+  - first:
+      213: 3328958031781208422
+    second: LinkNecesarioo_209
+  - first:
+      213: -2279849516705409278
+    second: LinkNecesarioo_210
+  - first:
+      213: 8450972548670099819
+    second: LinkNecesarioo_211
+  - first:
+      213: -8742118118942495629
+    second: LinkNecesarioo_212
+  - first:
+      213: 7732640936784295016
+    second: LinkNecesarioo_213
+  - first:
+      213: -4901424554523911726
+    second: LinkNecesarioo_214
+  - first:
+      213: 8130117613306739404
+    second: Sword13
+  - first:
+      213: -7764345565912854517
+    second: SwordWood13
+  - first:
+      213: -5994414141029066733
+    second: SwordWood12
+  - first:
+      213: 6521615618236091789
+    second: SwordWood8
+  - first:
+      213: 2970972110832772183
+    second: LinkSwordWood7
+  - first:
+      213: -5636690017783061478
+    second: Sword18
+  - first:
+      213: -4934564742019495526
+    second: Sword19
+  - first:
+      213: 6577335411051571705
+    second: LinkNecesarioo_222
+  - first:
+      213: 6740183442548678544
+    second: LinkNecesarioo_223
+  - first:
+      213: 8269522023802305904
+    second: LinkNecesarioo_224
+  - first:
+      213: 1526888858891469536
+    second: LinkNecesarioo_225
+  - first:
+      213: -7760542610789686253
+    second: LinkNecesarioo_226
+  - first:
+      213: 5619618501609884144
+    second: LinkNecesarioo_227
+  - first:
+      213: 4768425329215656341
+    second: LinkNecesarioo_228
+  - first:
+      213: 3327639616092748817
+    second: LinkNecesarioo_229
+  - first:
+      213: -3097280400664189191
+    second: LinkNecesarioo_230
+  - first:
+      213: 5995968035662780966
+    second: LinkNecesarioo_231
+  - first:
+      213: -8306145397639964525
+    second: LinkNecesarioo_232
+  - first:
+      213: -4945657831004546489
+    second: LinkNecesarioo_233
+  - first:
+      213: 6929951450839582371
+    second: SwordWood14
+  - first:
+      213: -1231844542121247149
+    second: SwordWood6
+  - first:
+      213: 4735783762802148356
+    second: Hammer
+  - first:
+      213: 730601247799363853
+    second: Sword20
+  - first:
+      213: -6697014974735735638
+    second: Sword21
+  - first:
+      213: 4939867619638342127
+    second: Sword22
+  - first:
+      213: -4670823108929417150
+    second: Sword23
+  - first:
+      213: 7657197195095176137
+    second: Sword24
+  - first:
+      213: -7138071026296061591
+    second: Sword12
+  - first:
+      213: -1007566759613504358
+    second: SwordWood15
+  - first:
+      213: -7407780859674732225
+    second: SwordWood16
+  - first:
+      213: -6239827527623891316
+    second: SwordWood4
+  - first:
+      213: 396361169646019895
+    second: SwordWood5
+  - first:
+      213: 8601244165741092566
+    second: ShieldWood
+  - first:
+      213: 7586693428844703577
+    second: Shield
+  - first:
+      213: 820999689552690412
+    second: Shield2
+  - first:
+      213: -1814336418471142144
+    second: Sword
+  - first:
+      213: 4973019796740346715
+    second: Sword2
+  - first:
+      213: 8577945673219118248
+    second: Sword3
+  - first:
+      213: 6584959216615804342
+    second: Sword4
+  - first:
+      213: 3729675545441392345
+    second: Sword5
+  - first:
+      213: 4398456037497869885
+    second: Sword6
+  - first:
+      213: -241736968038479444
+    second: Sword7
+  - first:
+      213: -4680521925318542508
+    second: Sword8
+  - first:
+      213: 7640528981756364322
+    second: Sword9
+  - first:
+      213: 2621036318656805114
+    second: SwordWood17
+  - first:
+      213: 2987396579651673939
+    second: SwordWood2
+  - first:
+      213: -241591175470946517
+    second: SwordWood3
+  - first:
+      213: 4991447851996893944
+    second: Go
+  - first:
+      213: 3819792785828039252
+    second: Go2
+  - first:
+      213: -8350229052050787923
+    second: Go3
+  - first:
+      213: -3082947778977494671
+    second: RubiaGreen
+  - first:
+      213: -6790152116572312666
+    second: Heart
+  - first:
+      213: -292254568525417306
+    second: RubiaBlue
+  - first:
+      213: -4779960273671695781
+    second: RubiaRed
+  - first:
+      213: 1693108350135040542
+    second: RubiaPurple
+  - first:
+      213: -8588496969283649799
+    second: Heart4
+  - first:
+      213: 8157668412459415236
+    second: RubiaYellow
+  - first:
+      213: -4147304501217224776
+    second: RubiaWhite
+  - first:
+      213: 2731665800057274690
+    second: RubiaOranges
+  - first:
+      213: 3378999089696907551
+    second: Heart7
+  - first:
+      213: -5109834100291630245
+    second: Sword11
+  - first:
+      213: 6227452494295574301
+    second: SwordWood
+  - first:
+      213: 2386009803710456894
+    second: ShieldWood2
+  - first:
+      213: -2503645212153245473
+    second: ShieldWood3
+  - first:
+      213: -6990321468623938195
+    second: ShieldWood4
+  - first:
+      213: -354744924477690938
+    second: ShieldWood5
+  - first:
+      213: 2913449540720441506
+    second: Heart5
+  - first:
+      213: 8179399432194416098
+    second: Heart6
+  - first:
+      213: -8793349730848438442
+    second: Sword10
+  - first:
+      213: -2463414462248438487
+    second: Heart2
+  - first:
+      213: -4702661836030335507
+    second: Heart3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pose
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 981
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9956ddabbcd5920800000000000000
+      internalID: 2980762531827915241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoseEscudoRigth
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 980
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e202c683cdfe260800000000000000
+      internalID: 7129158870041112216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoseEscudoLeft
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 981
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54553e14fe917baf0800000000000000
+      internalID: -380807128096221883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 886
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a6ec2bc82c02470800000000000000
+      internalID: 8367902017205463639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 886
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3b313d9c7d12f60800000000000000
+      internalID: 8007918874271134641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 886
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babc098727a3dca50800000000000000
+      internalID: 6542950096962636715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 887
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06727cf1395bd3b70800000000000000
+      internalID: 8880453683742451552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 887
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf943acee1db5330800000000000000
+      internalID: 3700782342339862444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 886
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c3d11622e4fd4f0800000000000000
+      internalID: -801836299083498417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSword
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 886
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39decfef025097760800000000000000
+      internalID: 7455996297363647891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSword2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 887
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ac68e7624746dd0800000000000000
+      internalID: -2493740584976070123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSword3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 887
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bbeb7dd302ee5c0800000000000000
+      internalID: -4184371553795916961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSword4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 887
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24404a2fe8a8b88e0800000000000000
+      internalID: -1690104888586664894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSword5
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 886
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa05da442607ffb00800000000000000
+      internalID: 864533220839739567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSword6
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 887
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79bd58f666a88590800000000000000
+      internalID: -7671699004041873025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSwordLeft
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 886
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3188ce55f98506d0800000000000000
+      internalID: -3024859887759228612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSwordLeft2
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 886
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952eb13ae8264d980800000000000000
+      internalID: -8515072630689373607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSwordLeft3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 886
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fa5acab57d013f0800000000000000
+      internalID: -932008334127157381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSwordLeft4
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 886
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65852ecc6d7799c40800000000000000
+      internalID: 5519574582763346006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSwordLeft5
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 887
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7760b4113be5739e0800000000000000
+      internalID: -1641739415970969993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkSwordLeft6
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 886
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6bfdfa09f474dc0800000000000000
+      internalID: -3654865089743309113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 792
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63c20dde1b5b4bd0800000000000000
+      internalID: -2644920168034942098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 788
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc3d026926274300800000000000000
+      internalID: 236199464640789700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 788
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd698a7ede3504760800000000000000
+      internalID: 7440038865674999516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 788
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a58abb5e85a49420800000000000000
+      internalID: 2635913712761472425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 792
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5ae6d5e54f93c20800000000000000
+      internalID: 3186846897472972212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 789
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44c89fb1046092f0800000000000000
+      internalID: -968163961212451761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running7
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 789
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5a4e7a050fd45e0800000000000000
+      internalID: -1923617236612504098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 789
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bb0c01c1ea8dc90800000000000000
+      internalID: -7144769373259908326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningLeft
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 792
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bdd56161846f5d0800000000000000
+      internalID: -3029154439658349738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningLeft2
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 788
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24afd21c1f123fc40800000000000000
+      internalID: 5544812888435063362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningLeft3
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 788
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1877a8e15df30e0800000000000000
+      internalID: -2287875758532099656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningLeft4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 788
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9579ab2d35d078520800000000000000
+      internalID: 2704144754928162649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningLeft5
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 792
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e750b266ca63ee00800000000000000
+      internalID: 1072818536536102886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningLeft6
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 789
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4855cd11513dec7f0800000000000000
+      internalID: -590302413691529852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningLeft7
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 789
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7ec9b8235aa56a0800000000000000
+      internalID: -6459669079000291401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningLeft8
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 789
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994d286d7810b2b20800000000000000
+      internalID: 3110581650560570521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSword
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 724
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002fac825e909f690800000000000000
+      internalID: -7568006818982858240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSword2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 720
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679a8bfccaa808010800000000000000
+      internalID: 1189102776449804662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSword3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 720
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4629eebd3349c30800000000000000
+      internalID: 4365170958522279146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSword4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 720
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9081487aaf45ef70800000000000000
+      internalID: 9215859806064181406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSword5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 724
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02ed3e0143f8a320800000000000000
+      internalID: 2569571048152228366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSword6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 721
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6adcc0cf86b2ac50800000000000000
+      internalID: 6675098326247725674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSword7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 721
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ee95d9fb4dbfaf0800000000000000
+      internalID: -361461425629434248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSword8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 720
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7ed33d7cfa15e10800000000000000
+      internalID: 2184720567028803549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSwordLeft
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 728
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6e50801b9bbb1f0800000000000000
+      internalID: -1028023919929071923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSwordLeft2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 724
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b873dce7ea8381f10800000000000000
+      internalID: 2240603136719665035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSwordLeft3
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 724
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fba68b11747a920800000000000000
+      internalID: 3001445818099744590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSwordLeft4
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 724
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de2ea79eeb90d9a0800000000000000
+      internalID: -6210292437094617390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSwordLeft5
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 728
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97afe1c8da0b7480800000000000000
+      internalID: -8900508312484730977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSwordLeft6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 725
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161ae8970e85e06f0800000000000000
+      internalID: -716537569570021023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSwordLeft7
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 725
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d2978e1a0390480800000000000000
+      internalID: -8932554913964544744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunningSwordLeft8
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 725
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55097e9c4b4e7f100800000000000000
+      internalID: 141833378418102357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 626
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843beac43d7cc95d0800000000000000
+      internalID: -3054346736925494456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 626
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1f8c45545ad0ea0800000000000000
+      internalID: -5904881819219070479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 627
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf57633c2a199e10800000000000000
+      internalID: 2204822269717864371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 627
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c655cf6d8a81c50800000000000000
+      internalID: 6636239692240350221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpSword
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 628
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2c49c8af6e1e220800000000000000
+      internalID: 2513544030824219308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpSword2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 628
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bed33c9b13bd1a00800000000000000
+      internalID: 728935645870022329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpSword3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 629
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43d9c7e302a46b00800000000000000
+      internalID: 820959169745638223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpSword4
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 629
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e443257339e7570800000000000000
+      internalID: 8466366215314755173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpSwordLeft
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 632
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74a731e9da483540800000000000000
+      internalID: 4987818886959703166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpSwordLeft2
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 632
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33af3f51515c7b00800000000000000
+      internalID: 827625841461535550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpSwordLeft3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 632
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e7fa1a65f3b4360800000000000000
+      internalID: 7154882074320535159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpSwordLeft4
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 632
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54e5277a496bf0d0800000000000000
+      internalID: -3387998526118697894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpSwordLeft5
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 632
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a68ff76a0292a310800000000000000
+      internalID: 1414853806339884712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 578
+        width: 32
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c411deed62dd268e0800000000000000
+      internalID: -1701554550174052020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 578
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b05fa09c53a73aa0800000000000000
+      internalID: -6181292345582989130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 578
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9b81a4f03d8ccb0800000000000000
+      internalID: -4843389336615863822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 578
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfb46bca55bac9d0800000000000000
+      internalID: -2753188820619575371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 578
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18fbaef5d7246980800000000000000
+      internalID: -8546662392788158438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallSword
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 577
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f5ec5026c4fe9d0800000000000000
+      internalID: -2742889664157425895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallSword2
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 577
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1e712936f3a5020800000000000000
+      internalID: 2331245454003003876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallSword3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 577
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f8183fdbf341970800000000000000
+      internalID: 8724668463190216583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallSword4
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 577
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435184739fdd5cd70800000000000000
+      internalID: 9062893887597057332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallSword5
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 577
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1709c8e23407b110800000000000000
+      internalID: 1276493636083189530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallSwordLeft
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 578
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02faac17406c6a640800000000000000
+      internalID: 5090974151180201760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallSwordLeft2
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 578
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9655e615208e890800000000000000
+      internalID: -7428685036580935217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallSwordLeft3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 578
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfb98e37fd3ffac0800000000000000
+      internalID: -3819265826871459901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallSwordLeft4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 578
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0531ffe3e41ba10800000000000000
+      internalID: 1923404548338307261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallSwordLeft5
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 578
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de756adadf53cfc60800000000000000
+      internalID: 7853211213883660269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 487
+        width: 33
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c078f8fa23dd160800000000000000
+      internalID: 7051848321140722814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 487
+        width: 30
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0e14a3eb64a7620800000000000000
+      internalID: 2772606303435088069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 486
+        width: 34
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f4226379f030bb0800000000000000
+      internalID: -4971112421564199103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 495
+        width: 51
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405dfa807feaf5700800000000000000
+      internalID: 531335657078904068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 487
+        width: 54
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806267a3b95e1b7e0800000000000000
+      internalID: -1751366325206899192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSword
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 487
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbae6437d2a363790800000000000000
+      internalID: -7550783758358091073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSword2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 487
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea074a56f502c880800000000000000
+      internalID: -8592298583434786077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSword3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 487
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff890b1133e0c330800000000000000
+      internalID: 3729230291509284852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSword4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 494
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54473971d63be3850800000000000000
+      internalID: 6358717005022065733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSword5
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 487
+        width: 85
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56594b3299c7fde90800000000000000
+      internalID: -6998738298739583643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSwordLeft
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 487
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9774285959a1e110800000000000000
+      internalID: 1288497169600640927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSwordLeft2
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 486
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b0d9bcb6f6e7070800000000000000
+      internalID: 8106038888081722123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSwordLeft3
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 487
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8621676f2f3e0b3f0800000000000000
+      internalID: -886958493935463832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSwordLeft4
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 495
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794848337e597f110800000000000000
+      internalID: 1294668238126613655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSwordLeft5
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 486
+        width: 85
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c8287343d780f80800000000000000
+      internalID: -8140118663249097629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 424
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6a9c405ba1e6990800000000000000
+      internalID: -7390940573696678210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 424
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26fd751cd9428790800000000000000
+      internalID: -7529374417407838675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 424
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f46308e25624a90800000000000000
+      internalID: -7331185993011802322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 424
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead694a4f84401b50800000000000000
+      internalID: 6561820039296150958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSword6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 421
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c4d1d489c09e7b0800000000000000
+      internalID: -5194606846926828386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSword7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 423
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d4f732db77d5640800000000000000
+      internalID: 5070340409717116197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSword8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 422
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef5c89e6c5a50450800000000000000
+      internalID: 6054427547809898478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSword9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 424
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc818525ff1ea340800000000000000
+      internalID: 4876870584245521591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSwordLeft6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 423
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a35f0d364b2f35c0800000000000000
+      internalID: -4233617544032857175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSwordLeft7
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 422
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebf5318eba58dbc0800000000000000
+      internalID: -3758154114782594073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSwordLeft8
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 423
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f9309a48ea53180800000000000000
+      internalID: -9136204384256680093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageSwordLeft9
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 424
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46816b5c7f678300800000000000000
+      internalID: 254294483869468239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePoseSword
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 343
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7b90fd976bf0910800000000000000
+      internalID: 1805862610148112331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePoseSword2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 343
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde36ea5753ae3800800000000000000
+      internalID: 594091796442005213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePoseSword3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 343
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7117c52024c7a6b0800000000000000
+      internalID: -5285039995344187011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePoseSword4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 343
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ddc50b85da35f50800000000000000
+      internalID: 6869024453097741584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePoseSword5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 343
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a59a56091b0efe50800000000000000
+      internalID: 6844920685758420385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePoseSword6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 343
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebcf1f196fdf5580800000000000000
+      internalID: -8836098301290886167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePose
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 343
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5524f1b900c9f0630800000000000000
+      internalID: 3895503729115218517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePose2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 343
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6928054123e14ad0800000000000000
+      internalID: -2719642967923480214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePose3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 342
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53c0b77251e08fb0800000000000000
+      internalID: -4647467071134710948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePose4
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 343
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018b4149462f31060800000000000000
+      internalID: 6923143565993621520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePose5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 343
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc9330559bb14df0800000000000000
+      internalID: -197670658657510214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePose6
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 343
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dda8eb65e17feae0800000000000000
+      internalID: -1517869319228707372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePoseSwordLeft
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 343
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17e6c7e186c19250800000000000000
+      internalID: 5949754843974788895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePoseSwordLeft2
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 343
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c97b85111fabaa10800000000000000
+      internalID: 1921822153914415554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePoseSwordLeft3
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 343
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84760021e12d29a30800000000000000
+      internalID: 4220666827392444232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePoseSwordLeft4
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 343
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a034c8e72ff2d8fd0800000000000000
+      internalID: -2338159912983706870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePoseSwordLeft5
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 343
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6cb1c1fabb2c140800000000000000
+      internalID: 4738556118712436396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlePoseSwordLeft6
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 343
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5420377178d1086e0800000000000000
+      internalID: -1837436181915958715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackDown
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 240
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec4438657f1d0390800000000000000
+      internalID: -7850583986317013788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackDown2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 240
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a315dae3a0b500800000000000000
+      internalID: 410007795083225575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackDown3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 240
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81ea58a06819f050800000000000000
+      internalID: 5834721595655643534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackDown4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 240
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1650d1d11a3b1f0800000000000000
+      internalID: -1030302743324696151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackDown6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 240
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5db1ba3bdae5bc40800000000000000
+      internalID: 5527582344970616159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackDown7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 240
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b82f4eae5670a70800000000000000
+      internalID: 8793108857002036108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackDown8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 240
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d1d1cd451005ca0800000000000000
+      internalID: -6030318437067317955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackDown9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 243
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ecb0db61c399990800000000000000
+      internalID: -7378800446111232475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackDown10
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 238
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc2740202e2775c0800000000000000
+      internalID: -4217851810493813555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackDown11
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 236
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbb5dc832bef8b80800000000000000
+      internalID: -8390229042848744508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirAttack3
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 219
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e5117f597b73940800000000000000
+      internalID: 5275887343210946139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirAttack4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 219
+        width: 27
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302fd2e7cdd0e0950800000000000000
+      internalID: 6417081759710441987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirAttack
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 219
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3392f1aa6e06493d0800000000000000
+      internalID: -3200826891340666573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirAttack2
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 219
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720c5ec4147d490a0800000000000000
+      internalID: -6875634055624933337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 234
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd111f48e42dd8d0800000000000000
+      internalID: -2820057211486528011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect2
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 233
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e47fe96e5ef7610800000000000000
+      internalID: 1621267169548914204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect3
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 233
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874918257481e59e0800000000000000
+      internalID: -1630839320455572360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Congratulation
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 154
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7f4d1652ef733a0800000000000000
+      internalID: -6685595685299619896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Congratulation2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 154
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716b6721d5a842830800000000000000
+      internalID: 4045510497631909399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Congratulation3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 154
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11b378cd618549d0800000000000000
+      internalID: -2790682085571710689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_146
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 187
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fe35d6a162115a0800000000000000
+      internalID: -6552414087902138472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_147
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 187
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acb3990eb1380210800000000000000
+      internalID: 1299343184770612390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_148
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 187
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7e9492676a04a50800000000000000
+      internalID: 6503380888352057269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_149
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 187
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa17eb6fcc7c07e90800000000000000
+      internalID: -7029899335198412374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_150
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 187
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a1fb3f642565840800000000000000
+      internalID: 5212444083418503749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_151
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 187
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea0b16ac3e15b3d0800000000000000
+      internalID: -3191611515088467227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_152
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 187
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117a12d1f6af1fa50800000000000000
+      internalID: 6553294287937840913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_153
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 187
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab38fa952819d710800000000000000
+      internalID: 1718431282611370927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_154
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 187
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad6c4b222017c600800000000000000
+      internalID: 488376823534349729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_155
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 187
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd17fcf4b2f8d9f0800000000000000
+      internalID: -443337704143905291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_156
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 186
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1721edf2bbd87ee90800000000000000
+      internalID: -6996467660995292559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_157
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 186
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931e2e047fb037520800000000000000
+      internalID: 2698513758298497337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_158
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 186
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cdd55910d651bd0800000000000000
+      internalID: -2660100151324058555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_159
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 186
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982a6188eb09fc5a0800000000000000
+      internalID: -6498816589270965623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_160
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 184
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed0418e0cf72fa60800000000000000
+      internalID: 7706362378888416742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_161
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 170
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf58735b486ba6a00800000000000000
+      internalID: 750612969002862075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_162
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 170
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e9832a21524a3d0800000000000000
+      internalID: -3196389073564950958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_163
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 170
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8fd33bd8341a0d0800000000000000
+      internalID: -3413372766693492491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 170
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7945883bda6f1ec0800000000000000
+      internalID: -3594036487839725185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_165
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 170
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065925458cca94da0800000000000000
+      internalID: -5960042655440005792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_166
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 170
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74def5fe46360a7e0800000000000000
+      internalID: -1756294569510572729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_167
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 170
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5e113e4b76400f0800000000000000
+      internalID: -1151681578098629172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_168
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 170
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa48cee0db0990870800000000000000
+      internalID: 8649603701015348399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_169
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 168
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f0dfa3b6ba813c0800000000000000
+      internalID: -4388569359833034925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_170
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 166
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25ce3d497eca79b0800000000000000
+      internalID: -5081522209151859413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_171
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 166
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8225381d73e9c81f0800000000000000
+      internalID: -1041283451253992920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_172
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 166
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fe3f3570ed05300800000000000000
+      internalID: 238934903305269032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_173
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 168
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f409c2f0b5a92bd50800000000000000
+      internalID: 6751628507269075023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_174
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 167
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e622303c6326a5d0800000000000000
+      internalID: -3051712749924899097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_175
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 165
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db6148de9cc2fcf0800000000000000
+      internalID: -219888449182667817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword15
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 135
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0203a5d50b6287720800000000000000
+      internalID: 2844065703606759456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword16
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 143
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75edb8f4ee0483f0800000000000000
+      internalID: -899577648978729606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_178
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 151
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e26ea6b9df9f730800000000000000
+      internalID: 4033533785242218060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 151
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd883e4785600720800000000000000
+      internalID: 2810357799286509045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_180
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 151
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12c621715596baf0800000000000000
+      internalID: -380952941442973156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_181
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 152
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5232d408ffea1fc30800000000000000
+      internalID: 4391483524055376677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_182
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 150
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b8477a55da07a20800000000000000
+      internalID: 3058134730377825069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_183
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 151
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a62eb83c54f74c70800000000000000
+      internalID: 8955395060975675044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_184
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 151
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbccad5630fa3410800000000000000
+      internalID: 1457741545698282442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_185
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 151
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69a7b1c91c9bbcf0800000000000000
+      internalID: -235422921068664468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_186
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 147
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd5451d51d986790800000000000000
+      internalID: -7536601259372683782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_187
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 147
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f0024f587acdfc0800000000000000
+      internalID: -3468713419213893810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_188
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 148
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf5c5634a1573f70800000000000000
+      internalID: 9166885332264443822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_189
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 148
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1014994b3e9e69b40800000000000000
+      internalID: 5446797963547984129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_190
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 148
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fb8165dce10cb00800000000000000
+      internalID: 846710597207244689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_191
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 148
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6042d2755f06d20800000000000000
+      internalID: 3269883084239275748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_192
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 147
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001fd44a4bb9be130800000000000000
+      internalID: 3597139927538462976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword14
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 121
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9736960049a73130800000000000000
+      internalID: 3546489324031063967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood11
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 134
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1640a38fdd3308f00800000000000000
+      internalID: 1116949736033223777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood10
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 136
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c6fa035dc49ad50800000000000000
+      internalID: 6749009995119946870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 134
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa845c5bf3f688e30800000000000000
+      internalID: 4505973746607409322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CongratulationSword
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 92
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b0030ac31e57f60800000000000000
+      internalID: 8031573160986938166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CongratulationSword2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 92
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451980c2ba4cebec0800000000000000
+      internalID: -3549183216864161452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CongratulationSword3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 92
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c74e5559b0be0f0800000000000000
+      internalID: -1086762149060772789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_200
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 131
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a78e950fda9fe560800000000000000
+      internalID: 7345259799927228327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_201
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 132
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d03fe31a49bd6cc0800000000000000
+      internalID: -3716110389697629997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_202
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 133
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e308de1fc502390800000000000000
+      internalID: -7845168356737925594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_203
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 131
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d6c85f5040a9de0800000000000000
+      internalID: -1325742716666221191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_204
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 132
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a12641d022390c0800000000000000
+      internalID: -4570271757279028603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_205
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 133
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0b943c4bb4c6100800000000000000
+      internalID: 102540131265261774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_206
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 131
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf55db63b7b5b970800000000000000
+      internalID: 8770117830610083777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_207
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 132
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b376dc24b50a640800000000000000
+      internalID: 5089167921400724315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_208
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 128
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c91937989ba8e20800000000000000
+      internalID: 3353696872531336306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_209
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 129
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a08c31b5d23e20800000000000000
+      internalID: 3328958031781208422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_210
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 129
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2079d6791f85c50e0800000000000000
+      internalID: -2279849516705409278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_211
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 131
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b611f0202c2e74570800000000000000
+      internalID: 8450972548670099819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_212
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 129
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c2de773e1cda680800000000000000
+      internalID: -8742118118942495629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_213
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 128
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864fba476fbdf4b60800000000000000
+      internalID: 7732640936784295016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_214
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 128
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d999362654aafbb0800000000000000
+      internalID: -4901424554523911726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword13
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 103
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca7b43e4eaf3d070800000000000000
+      internalID: 8130117613306739404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood13
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 122
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00926658d08f3490800000000000000
+      internalID: -7764345565912854517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood12
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318526739109fcca0800000000000000
+      internalID: -5994414141029066733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d0a9e0ade618a50800000000000000
+      internalID: 6521615618236091789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkSwordWood7
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 122
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754a7c7d4630b3920800000000000000
+      internalID: 2970972110832772183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword18
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 75
+        width: 15
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14ec051b4476c1b0800000000000000
+      internalID: -5636690017783061478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword19
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 81
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99c2c6f287e48bb0800000000000000
+      internalID: -4934564742019495526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_222
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 113
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a35845b3674b50800000000000000
+      internalID: 6577335411051571705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_223
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 113
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f55164121f98d50800000000000000
+      internalID: 6740183442548678544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_224
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 111
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d7103877e33c270800000000000000
+      internalID: 8269522023802305904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_225
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 111
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e24abdc359903510800000000000000
+      internalID: 1526888858891469536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_226
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 111
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3142993dc930d4490800000000000000
+      internalID: -7760542610789686253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_227
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 112
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f98ba1d045ecfd40800000000000000
+      internalID: 5619618501609884144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_228
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 112
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591dfdd9299dc2240800000000000000
+      internalID: 4768425329215656341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_229
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 105
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cb9b9a9962e2e20800000000000000
+      internalID: 3327639616092748817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_230
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6a1acb2ef3405d0800000000000000
+      internalID: -3097280400664189191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_231
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ad6421925f53350800000000000000
+      internalID: 5995968035662780966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_232
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3989ce8c4c4aabc80800000000000000
+      internalID: -8306145397639964525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkNecesarioo_233
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a585ae76e7d5bb0800000000000000
+      internalID: -4945657831004546489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood14
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 114
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a60ff9c0222c2060800000000000000
+      internalID: 6929951450839582371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 114
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35efb506aeb97eee0800000000000000
+      internalID: -1231844542121247149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 88
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40482e2bd32e8b140800000000000000
+      internalID: 4735783762802148356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword20
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 84
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09c987c6fd932a00800000000000000
+      internalID: 730601247799363853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword21
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 94
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4a76fdc5c6f03a0800000000000000
+      internalID: -6697014974735735638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword22
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 94
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe17ff17d6fed8440800000000000000
+      internalID: 4939867619638342127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword23
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 94
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24093972127ed2fb0800000000000000
+      internalID: -4670823108929417150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword24
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 91
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3f3c48744d34a60800000000000000
+      internalID: 7657197195095176137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 80
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9618d10883a70fc90800000000000000
+      internalID: -7138071026296061591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood15
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 101
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94eeb5de576402f0800000000000000
+      internalID: -1007566759613504358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood16
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3956256e86423990800000000000000
+      internalID: -7407780859674732225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood4
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8626447ceda769a0800000000000000
+      internalID: -6239827527623891316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood5
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 101
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735628f3268208500800000000000000
+      internalID: 396361169646019895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldWood
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 93
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de16655ff1cd5770800000000000000
+      internalID: 8601244165741092566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 92
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f241e3a79594960800000000000000
+      internalID: 7586693428844703577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield2
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 91
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec7e782ed6c46b00800000000000000
+      internalID: 820999689552690412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 48
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d19f1e3ae22d6e0800000000000000
+      internalID: -1814336418471142144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 48
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5391bd2827b30540800000000000000
+      internalID: 4973019796740346715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 5
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a413d2542cfa0770800000000000000
+      internalID: 8577945673219118248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 48
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdc1d6d489726b50800000000000000
+      internalID: 6584959216615804342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword5
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 48
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6de7dd52872c330800000000000000
+      internalID: 3729675545441392345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 48
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d369b3b46747a0d30800000000000000
+      internalID: 4398456037497869885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 5
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca98cf2228d25acf0800000000000000
+      internalID: -241736968038479444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 48
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bf5fd7b127b0fb0800000000000000
+      internalID: -4680521925318542508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword9
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 48
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2264aada0ac980a60800000000000000
+      internalID: 7640528981756364322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood17
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 82
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8bfec15aacf5420800000000000000
+      internalID: 2621036318656805114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood2
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 76
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fda5d7c5d557920800000000000000
+      internalID: 2987396579651673939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 82
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b276f2d1b12b5acf0800000000000000
+      internalID: -241591175470946517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Go
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 12
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f25925206f254540800000000000000
+      internalID: 4991447851996893944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Go2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a41e2fc41a20530800000000000000
+      internalID: 3819792785828039252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Go3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 12
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1bd572be60e1c80800000000000000
+      internalID: -8350229052050787923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RubiaGreen
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 61
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17987f4445b2735d0800000000000000
+      internalID: -3082947778977494671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 43
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab27d030a884c1a0800000000000000
+      internalID: -6790152116572312666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RubiaBlue
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 62
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4be03b404b1fbf0800000000000000
+      internalID: -292254568525417306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RubiaRed
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 62
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.53278095, y: 0.48688862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52d157d47b2aadb0800000000000000
+      internalID: -4779960273671695781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RubiaPurple
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 62
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1afb00f2112f7710800000000000000
+      internalID: 1693108350135040542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 44
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe345f92878fc880800000000000000
+      internalID: -8588496969283649799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RubiaYellow
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 62
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c67110333cd53170800000000000000
+      internalID: 8157668412459415236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RubiaWhite
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 61
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7919d8780d176c0800000000000000
+      internalID: -4147304501217224776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RubiaOranges
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 61
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2414f797293d8e520800000000000000
+      internalID: 2731665800057274690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 45
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11a0c5f4cd94ee20800000000000000
+      internalID: 3378999089696907551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword11
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 53
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b80f675f83619b0800000000000000
+      internalID: -5109834100291630245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordWood
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 55
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17ab129c0b5c6650800000000000000
+      internalID: 6227452494295574301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldWood2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 57
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34e2cc564fcc1120800000000000000
+      internalID: 2386009803710456894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldWood3
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 57
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd09ff5c1f3414dd0800000000000000
+      internalID: -2503645212153245473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldWood4
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 57
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d12ec19a36dfe90800000000000000
+      internalID: -6990321468623938195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldWood5
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 57
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb62a6ee51b31bf0800000000000000
+      internalID: -354744924477690938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 45
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8baa1dbe6ae6820800000000000000
+      internalID: 2913449540720441506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 43
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eddaff7270138170800000000000000
+      internalID: 8179399432194416098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword10
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 24
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657800b420fb7f580800000000000000
+      internalID: -8793349730848438442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 45
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9253f1b299130ddd0800000000000000
+      internalID: -2463414462248438487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 45
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de520a4d9f9ccbeb0800000000000000
+      internalID: -4702661836030335507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

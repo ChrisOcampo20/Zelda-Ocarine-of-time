@@ -1,0 +1,4293 @@
+fileFormatVersion: 2
+guid: 974f97fc0157c124fb9d09bef333f53e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 618919870900487243
+    second: SpinAttack
+  - first:
+      213: -5518514267044577578
+    second: SpinAttack2
+  - first:
+      213: -6885636792205170283
+    second: SpinAttack3
+  - first:
+      213: -1560184398786911033
+    second: SpinAttack4
+  - first:
+      213: -5756138917157074075
+    second: SpinAttack5
+  - first:
+      213: -3651469328557448708
+    second: SpinAttack6
+  - first:
+      213: 6321139108229864143
+    second: SpinAttack7
+  - first:
+      213: -1698219557197445387
+    second: SpinAttack8
+  - first:
+      213: -6024327956158381457
+    second: SpinAttack9
+  - first:
+      213: -1894573990006720111
+    second: SpinAttack10
+  - first:
+      213: -2823206941153789606
+    second: SpinAttack11
+  - first:
+      213: -2956893887337827055
+    second: SpinAttack12
+  - first:
+      213: 4167927716581968456
+    second: SpinAttack13
+  - first:
+      213: 8726598221192700610
+    second: SpinAttack14
+  - first:
+      213: -1298513551502728960
+    second: SpinAttack15
+  - first:
+      213: 1696760625857929400
+    second: SpinAttack16
+  - first:
+      213: -6028318221205936370
+    second: SpinAttack17
+  - first:
+      213: 7093609909336099335
+    second: SpinAttackLeft
+  - first:
+      213: -8025918172268148818
+    second: SpinAttackLeft6
+  - first:
+      213: 8138125213829820415
+    second: SpinAttackLeft7
+  - first:
+      213: 4544962262975564932
+    second: SpinAttackLeft9
+  - first:
+      213: -6207769780311354564
+    second: SpinAttackLeft10
+  - first:
+      213: 188149143966745045
+    second: SpinAttackLeft11
+  - first:
+      213: 7360197887647379940
+    second: SpinAttackLeft12
+  - first:
+      213: 8731397638110256241
+    second: SpinAttackLeft13
+  - first:
+      213: 2422081018552540121
+    second: SpinAttackLeft14
+  - first:
+      213: -8174318060176503716
+    second: SpinAttackLeft15
+  - first:
+      213: 6141309866472168087
+    second: SpinAttackLeft16
+  - first:
+      213: 6542176423115527526
+    second: SpinAttackLeft17
+  - first:
+      213: -8689818247982473990
+    second: SpinAttackLeft18
+  - first:
+      213: 8846962861475627583
+    second: Shield
+  - first:
+      213: 62615292606701291
+    second: Shield2
+  - first:
+      213: 4624927571668024652
+    second: SmokeIces
+  - first:
+      213: 3593158091083716497
+    second: ShieldAttack
+  - first:
+      213: 6143669778537240927
+    second: ShieldAttack2
+  - first:
+      213: 2285451977857715484
+    second: ShieldAttack3
+  - first:
+      213: 6221703133100653582
+    second: ShieldAttack4
+  - first:
+      213: 1923118708972274301
+    second: LightAttackEnemy4
+  - first:
+      213: 3401319267911928089
+    second: LightAttackEnemy5
+  - first:
+      213: 2853246979150859502
+    second: LightAttackEnemy6
+  - first:
+      213: 9006245015949503719
+    second: LightAttack2
+  - first:
+      213: 8752735645527537179
+    second: BowIces2
+  - first:
+      213: 5701986318707510047
+    second: LightAttackEnemy2
+  - first:
+      213: 6379804836173017930
+    second: LightAttack
+  - first:
+      213: 7773514718240878954
+    second: Link attack_49
+  - first:
+      213: -7924157736938477296
+    second: Link attack_50
+  - first:
+      213: 6327539331193807308
+    second: Link attack_51
+  - first:
+      213: 3151567515818782867
+    second: Link attack_52
+  - first:
+      213: 4116380555999582923
+    second: Link attack_53
+  - first:
+      213: 1830013651469425432
+    second: Link attack_54
+  - first:
+      213: 3428380535961715325
+    second: Link attack_55
+  - first:
+      213: -3620543561597446432
+    second: BowIces
+  - first:
+      213: 2006165202023976875
+    second: Link attack_57
+  - first:
+      213: -6382768673739187612
+    second: Link attack_58
+  - first:
+      213: 3295002212952866732
+    second: BowIces5
+  - first:
+      213: -3511426090044498634
+    second: Link attack_60
+  - first:
+      213: 9081173131745838026
+    second: Link attack_61
+  - first:
+      213: 6914305758178125685
+    second: Link attack_62
+  - first:
+      213: -5446594992483095958
+    second: Link attack_63
+  - first:
+      213: -7975839870797812107
+    second: Link attack_64
+  - first:
+      213: 7493258857409505810
+    second: Link attack_65
+  - first:
+      213: -2756201702639980784
+    second: Link attack_66
+  - first:
+      213: 5078502736154263988
+    second: ExplotionIces
+  - first:
+      213: 505719592356347921
+    second: DamageIces
+  - first:
+      213: -571970909098320959
+    second: DamageIces2
+  - first:
+      213: 3125717144571569228
+    second: LightAttackEnemy
+  - first:
+      213: -7575821956546712997
+    second: Link attack_71
+  - first:
+      213: 605643321334552997
+    second: LightAttackEnemy3
+  - first:
+      213: -2070966864383039757
+    second: Link attack_73
+  - first:
+      213: -8788226049368963869
+    second: Link attack_74
+  - first:
+      213: 383670879011814232
+    second: Link attack_75
+  - first:
+      213: -5322979034776232023
+    second: Link attack_76
+  - first:
+      213: 5422804677553867778
+    second: Link attack_77
+  - first:
+      213: 5919248339625145297
+    second: Link attack_78
+  - first:
+      213: 7091396110348516889
+    second: Link attack_79
+  - first:
+      213: -4111330008716259784
+    second: Link attack_80
+  - first:
+      213: 6669882188124737316
+    second: Link attack_81
+  - first:
+      213: 3605313438590705170
+    second: Link attack_82
+  - first:
+      213: -4449682013119001716
+    second: Link attack_83
+  - first:
+      213: -987582494932540461
+    second: Link attack_84
+  - first:
+      213: -6310119964848618172
+    second: BowIces3
+  - first:
+      213: 5884469159740169876
+    second: BowIces4
+  - first:
+      213: -1300290685234795694
+    second: BowIces5
+  - first:
+      213: -7214803193419251088
+    second: BowIces6
+  - first:
+      213: 3928519061969135580
+    second: BowIces7
+  - first:
+      213: -297398879965063297
+    second: BowIces8
+  - first:
+      213: -2977962443627179984
+    second: BowIces9
+  - first:
+      213: 9014058168595298238
+    second: BowIces10
+  - first:
+      213: -6170661129688633868
+    second: BowIces11
+  - first:
+      213: -856744625136640556
+    second: BowIces12
+  - first:
+      213: 5882655199384399057
+    second: BowIces13
+  - first:
+      213: 6355491986396494262
+    second: ArrowIces
+  - first:
+      213: 5336238760401786163
+    second: ArrowIces2
+  - first:
+      213: 5362006588039449356
+    second: Link attack_98
+  - first:
+      213: 2727777847769863662
+    second: Link attack_99
+  - first:
+      213: 6011745828734689379
+    second: Link attack_100
+  - first:
+      213: 458299973872909886
+    second: Link attack_101
+  - first:
+      213: 2642303956242417766
+    second: Link attack_102
+  - first:
+      213: 7662644067829451357
+    second: Link attack_103
+  - first:
+      213: -4185222338186738654
+    second: Link attack_104
+  - first:
+      213: -8371745150485248640
+    second: Link attack_105
+  - first:
+      213: 4396940198096360851
+    second: ArrowIces3
+  - first:
+      213: -5920033760517921377
+    second: ArrowIces4
+  - first:
+      213: 1468861742148959992
+    second: Link attack_108
+  - first:
+      213: 6378320381118669507
+    second: Link attack_109
+  - first:
+      213: -6345983341709042342
+    second: Link attack_110
+  - first:
+      213: 339349723353640179
+    second: Link attack_111
+  - first:
+      213: 6092818558665640610
+    second: Link attack_112
+  - first:
+      213: 7749921972690397365
+    second: BowFire
+  - first:
+      213: -1320683931666498307
+    second: BowFire2
+  - first:
+      213: 3323290933901196407
+    second: BowFire3
+  - first:
+      213: -4526915863561299856
+    second: BowFire4
+  - first:
+      213: 2726076306763859498
+    second: BowFire5
+  - first:
+      213: 7476199421585537490
+    second: BowFire6
+  - first:
+      213: 3900190886274946355
+    second: BowFire7
+  - first:
+      213: -718281295298248810
+    second: BowFire8
+  - first:
+      213: -5670175350926490624
+    second: BowFire9
+  - first:
+      213: -5276881263304023792
+    second: BowFire10
+  - first:
+      213: -793089730487224007
+    second: BowFire11
+  - first:
+      213: 6687073979207262281
+    second: BowFire12
+  - first:
+      213: 744118812986098238
+    second: Link attack_125
+  - first:
+      213: -8939136731119592447
+    second: Link attack_126
+  - first:
+      213: 7668055568252182104
+    second: Link attack_127
+  - first:
+      213: 3167515272153495804
+    second: Link attack_128
+  - first:
+      213: -893812356429958021
+    second: Link attack_129
+  - first:
+      213: 9131887942163833905
+    second: Link attack_130
+  - first:
+      213: 2947967676287905663
+    second: Link attack_131
+  - first:
+      213: 1453927667205785199
+    second: Link attack_132
+  - first:
+      213: -8164611366975122833
+    second: Link attack_133
+  - first:
+      213: 821355843241974986
+    second: Link attack_134
+  - first:
+      213: 3739111440485341632
+    second: Link attack_135
+  - first:
+      213: -1734986621793778898
+    second: Link attack_136
+  - first:
+      213: 836797059624799081
+    second: Link attack_137
+  - first:
+      213: 194098295340752078
+    second: Link attack_138
+  - first:
+      213: 885091677175841805
+    second: Link attack_139
+  - first:
+      213: -164559380408560052
+    second: Link attack_140
+  - first:
+      213: 2775211919962089741
+    second: Link attack_141
+  - first:
+      213: -2129442124745156294
+    second: Fire
+  - first:
+      213: -3652636369925051621
+    second: Fire2
+  - first:
+      213: 2418990436129890004
+    second: Fire3
+  - first:
+      213: 1999894961246007423
+    second: Fire4
+  - first:
+      213: 6733750064040563400
+    second: ArrowFire
+  - first:
+      213: 983460001276191180
+    second: ArrowFire2
+  - first:
+      213: 7723879925052440224
+    second: Link attack_148
+  - first:
+      213: 9088885412657251883
+    second: Link attack_149
+  - first:
+      213: 4274389340553941384
+    second: Link attack_150
+  - first:
+      213: -8132255292911322294
+    second: Link attack_151
+  - first:
+      213: -1368921199132844949
+    second: Link attack_152
+  - first:
+      213: 7144663328600489758
+    second: Link attack_153
+  - first:
+      213: 5827119562983213526
+    second: Link attack_154
+  - first:
+      213: -4331933593201568165
+    second: Link attack_155
+  - first:
+      213: 2368040344002520558
+    second: Link attack_156
+  - first:
+      213: -5484900557216855631
+    second: Link attack_157
+  - first:
+      213: 1957163769919117089
+    second: Link attack_158
+  - first:
+      213: -1773662541060421547
+    second: Link attack_159
+  - first:
+      213: 963395416309214031
+    second: Link attack_160
+  - first:
+      213: 3387073172766613957
+    second: Link attack_161
+  - first:
+      213: -5767687465027105328
+    second: Link attack_162
+  - first:
+      213: -7752812153290099592
+    second: ArrowFire3
+  - first:
+      213: -10177973060423350
+    second: DamageFire
+  - first:
+      213: 9022314110706312531
+    second: DamageFire2
+  - first:
+      213: 3507548939621368187
+    second: Link attack_166
+  - first:
+      213: 3856920408553398601
+    second: Link attack_167
+  - first:
+      213: 6679983417987365629
+    second: Link attack_168
+  - first:
+      213: 2949493906419816973
+    second: Link attack_169
+  - first:
+      213: 2338794268182364840
+    second: Link attack_170
+  - first:
+      213: -2396334892243980638
+    second: Link attack_171
+  - first:
+      213: -1388428527580084427
+    second: Link attack_172
+  - first:
+      213: 7573282182363338209
+    second: Link attack_173
+  - first:
+      213: 1062399994277888295
+    second: Link attack_174
+  - first:
+      213: -2270226049156364983
+    second: Bow
+  - first:
+      213: 4796411873049958044
+    second: Bow2
+  - first:
+      213: 2475965526418113022
+    second: Bow3
+  - first:
+      213: -3774616678586440977
+    second: Bow4
+  - first:
+      213: -2431787206432165118
+    second: Bow5
+  - first:
+      213: 7746602241077064361
+    second: Bow6
+  - first:
+      213: 8450712857583744136
+    second: Arrow
+  - first:
+      213: 2877799657042824409
+    second: BowSword
+  - first:
+      213: 2243436374980698263
+    second: BowSword2
+  - first:
+      213: -5171259461187859531
+    second: BowSword3
+  - first:
+      213: 504376969743100168
+    second: BowSword4
+  - first:
+      213: 5179678803188302634
+    second: BowSword5
+  - first:
+      213: 4207482174398426851
+    second: BowSword6
+  - first:
+      213: 3880669674144713115
+    second: Arrow2
+  - first:
+      213: 2843257794284340626
+    second: LinkOcarine
+  - first:
+      213: -7725925182994939875
+    second: LinkOcarine2
+  - first:
+      213: 1595462121240563763
+    second: LinkOcarine3
+  - first:
+      213: -2816088158480655385
+    second: Ocarine
+  - first:
+      213: -6035242281643835950
+    second: Arrow3
+  - first:
+      213: 8473439597829450024
+    second: Link attack_194
+  - first:
+      213: 4498783328843876107
+    second: Link attack_195
+  - first:
+      213: 4369437848483314028
+    second: Bow7
+  - first:
+      213: 819451436931199953
+    second: Bow8
+  - first:
+      213: -6538044329950337556
+    second: Bow9
+  - first:
+      213: -2719767506267906664
+    second: Bow10
+  - first:
+      213: 6150912763902196540
+    second: Bow11
+  - first:
+      213: 6138699838107326824
+    second: Bow12
+  - first:
+      213: -7202885787124750500
+    second: Bow13
+  - first:
+      213: 1793540910652620989
+    second: BowSword7
+  - first:
+      213: -534625723472554379
+    second: BowSword8
+  - first:
+      213: 2261524557165857224
+    second: BowSword9
+  - first:
+      213: 4336514384499863169
+    second: BowSword10
+  - first:
+      213: -5054800389008577616
+    second: BowSword11
+  - first:
+      213: -6637890808001072185
+    second: BowSword12
+  - first:
+      213: 5586942598032312874
+    second: BowSword13
+  - first:
+      213: -8073919732030795156
+    second: Link attack_210
+  - first:
+      213: 4481805313636262846
+    second: Link attack_211
+  - first:
+      213: -1334645314147456898
+    second: Link attack_212
+  - first:
+      213: 1847765780695893394
+    second: Link attack_213
+  - first:
+      213: -1437301635890185435
+    second: Link attack_214
+  - first:
+      213: -8711668534635753359
+    second: Link attack_215
+  - first:
+      213: -7116948396865823509
+    second: Link attack_216
+  - first:
+      213: 5028939234677800487
+    second: Link attack_217
+  - first:
+      213: 2176913440031885929
+    second: Link attack_218
+  - first:
+      213: 4151342730435524496
+    second: Link attack_219
+  - first:
+      213: -6566967146072718079
+    second: Link attack_220
+  - first:
+      213: -4802000386848119318
+    second: LightAttack3
+  - first:
+      213: -6738213187935332615
+    second: Link attack_222
+  - first:
+      213: 6696508429485952087
+    second: Link attack_223
+  - first:
+      213: 6432133248237864991
+    second: Link attack_224
+  - first:
+      213: -5699760066377668903
+    second: Link attack_225
+  - first:
+      213: -755402998928511319
+    second: Link attack_226
+  - first:
+      213: 6667801948174293273
+    second: Link attack_227
+  - first:
+      213: -4116552534115180583
+    second: Link attack_228
+  - first:
+      213: 1964940561444677111
+    second: LightAttack5
+  - first:
+      213: 7212194092957901839
+    second: Link attack_230
+  - first:
+      213: 2969784220858085509
+    second: Link attack_231
+  - first:
+      213: -1203553866059091634
+    second: LightAttack4
+  - first:
+      213: -313750940333574255
+    second: LightAttack6
+  - first:
+      213: 3209476004149085119
+    second: LightAttack7
+  - first:
+      213: -7040766943168837041
+    second: Link attack_235
+  - first:
+      213: -3596454062736833493
+    second: Link attack_236
+  - first:
+      213: 3996291766064775971
+    second: Link attack_237
+  - first:
+      213: 1676613747965413386
+    second: Link attack_238
+  - first:
+      213: 7789732459839298639
+    second: Link attack_239
+  - first:
+      213: 4225640674900954254
+    second: Link attack_240
+  - first:
+      213: -6107246697101867232
+    second: Link attack_241
+  - first:
+      213: 1223228416687178600
+    second: Link attack_242
+  - first:
+      213: 4597161433923655418
+    second: Link attack_243
+  - first:
+      213: -6540048146315235242
+    second: Link attack_244
+  - first:
+      213: 7921396791487629942
+    second: Link attack_245
+  - first:
+      213: -4404184343194984624
+    second: Link attack_246
+  - first:
+      213: 6076183447700156111
+    second: Link attack_247
+  - first:
+      213: -8779094310462347329
+    second: Link attack_248
+  - first:
+      213: 6811949492827366456
+    second: Link attack_249
+  - first:
+      213: 7940119708303424007
+    second: Link attack_250
+  - first:
+      213: 7839724400689004671
+    second: Link attack_251
+  - first:
+      213: 7822177101359316155
+    second: Link attack_252
+  - first:
+      213: -5274475159020092247
+    second: Link attack_253
+  - first:
+      213: -341646798857061485
+    second: Link attack_254
+  - first:
+      213: 2150881496976632252
+    second: Link attack_255
+  - first:
+      213: -6663571698892401985
+    second: Link attack_256
+  - first:
+      213: -1205465977042843864
+    second: Link attack_257
+  - first:
+      213: 6610634023864650452
+    second: LightAttack8
+  - first:
+      213: -5646086014645776650
+    second: LightAttack9
+  - first:
+      213: -5561522980435544992
+    second: LightAttack10
+  - first:
+      213: 5396634110459687959
+    second: LightAttack11
+  - first:
+      213: 2404831883221630851
+    second: LightAttack12
+  - first:
+      213: 151767601607334249
+    second: Link attack_263
+  - first:
+      213: -689884298526843234
+    second: Link attack_264
+  - first:
+      213: -5180181704515949330
+    second: LightAttack13
+  - first:
+      213: -6734662541283780282
+    second: Link attack_266
+  - first:
+      213: -7034949145154951281
+    second: Link attack_267
+  - first:
+      213: 9034148614944862088
+    second: LightAttack14
+  - first:
+      213: 3292398445534271285
+    second: LightAttack15
+  - first:
+      213: -4927731776395059296
+    second: LightAttack16
+  - first:
+      213: 1356090211289968056
+    second: Link attack_271
+  - first:
+      213: -6005172948145212945
+    second: LightAttack17
+  - first:
+      213: 4186621487093938169
+    second: Link attack_273
+  - first:
+      213: 523080411695409710
+    second: LightAttack18
+  - first:
+      213: -4977050689871652413
+    second: LightAttack19
+  - first:
+      213: 7531329140691770844
+    second: Link attack_276
+  - first:
+      213: -720524088926692764
+    second: LightBall
+  - first:
+      213: 3997759589216990007
+    second: LightBall2
+  - first:
+      213: 7571580762095125473
+    second: LightBall3
+  - first:
+      213: 6195501043280695574
+    second: Link attack_280
+  - first:
+      213: -2842051581874132002
+    second: LightBall4
+  - first:
+      213: 4297851840138287984
+    second: LightBall5
+  - first:
+      213: 5372000194148742428
+    second: Link attack_283
+  - first:
+      213: 8215887438193346662
+    second: LightBall6
+  - first:
+      213: -991968975834402644
+    second: LightBall7
+  - first:
+      213: -5298507448334229236
+    second: LightBall8
+  - first:
+      213: -6387619098416644921
+    second: LightBall9
+  - first:
+      213: 9106055970545888412
+    second: Link attack_288
+  - first:
+      213: 8013712172418103242
+    second: Link attack_289
+  - first:
+      213: 5336483803163935411
+    second: Link attack_290
+  - first:
+      213: 6455340929203337464
+    second: Link attack_291
+  - first:
+      213: -744240884766106189
+    second: Link attack_292
+  - first:
+      213: 5586324963865615249
+    second: Link attack_293
+  - first:
+      213: 2405681659545378988
+    second: Link attack_294
+  - first:
+      213: 7787627643673476511
+    second: Link attack_295
+  - first:
+      213: 6553838468022755797
+    second: Link attack_296
+  - first:
+      213: 5026271975056846294
+    second: Link attack_297
+  - first:
+      213: 377615567282853976
+    second: Link attack_298
+  - first:
+      213: -9189290457804610039
+    second: Link attack_299
+  - first:
+      213: -955111388217748811
+    second: Link attack_300
+  - first:
+      213: 8135389218638473431
+    second: Link attack_301
+  - first:
+      213: -830712503003383268
+    second: Link attack_302
+  - first:
+      213: 735423837590936921
+    second: Link attack_303
+  - first:
+      213: 7563971204846368174
+    second: Link attack_304
+  - first:
+      213: -2893685514496576193
+    second: Link attack_305
+  - first:
+      213: -4691892868065445548
+    second: Link attack_306
+  - first:
+      213: -4037297065040069838
+    second: Link attack_307
+  - first:
+      213: -1318920360014684402
+    second: Link attack_308
+  - first:
+      213: -7570565887348422094
+    second: Link attack_309
+  - first:
+      213: 2930594916822049946
+    second: Link attack_310
+  - first:
+      213: -6914467385223047651
+    second: Link attack_311
+  - first:
+      213: -6528644071184132451
+    second: Link attack_312
+  - first:
+      213: -4263802354415225715
+    second: Link attack_313
+  - first:
+      213: -2812558916582578347
+    second: Link attack_314
+  - first:
+      213: 5662259739864548581
+    second: Link attack_315
+  - first:
+      213: -4947773613208679898
+    second: Link attack_316
+  - first:
+      213: -7970726714138337831
+    second: Link attack_317
+  - first:
+      213: -7399932901953142434
+    second: Link attack_318
+  - first:
+      213: -5180808855396127093
+    second: Link attack_319
+  - first:
+      213: -2414069587378125126
+    second: Link attack_320
+  - first:
+      213: 8288712037019269461
+    second: Link attack_321
+  - first:
+      213: 6126589148095097884
+    second: Link attack_322
+  - first:
+      213: -2262248992291303907
+    second: Link attack_323
+  - first:
+      213: 3629951717460634174
+    second: Link attack_324
+  - first:
+      213: -1805265768500508941
+    second: Link attack_325
+  - first:
+      213: -7809497012084199768
+    second: Link attack_326
+  - first:
+      213: -7344084728115262970
+    second: Link attack_327
+  - first:
+      213: 5705203858132401816
+    second: Link attack_328
+  - first:
+      213: 7370968220377700426
+    second: Link attack_329
+  - first:
+      213: -5278079377209870902
+    second: Link attack_330
+  - first:
+      213: 6724549675112394405
+    second: Link attack_331
+  - first:
+      213: -6007644838644965326
+    second: Link attack_332
+  - first:
+      213: -3285486218167990219
+    second: Link attack_333
+  - first:
+      213: -214444400401365380
+    second: Link attack_334
+  - first:
+      213: -7852641965412020423
+    second: Link attack_335
+  - first:
+      213: 5757977547592544949
+    second: Link attack_336
+  - first:
+      213: 6806774840280670778
+    second: Link attack_337
+  - first:
+      213: -8170846261877935644
+    second: Link attack_338
+  - first:
+      213: 2035641349897156803
+    second: Link attack_339
+  - first:
+      213: 6495301478282055606
+    second: Link attack_340
+  - first:
+      213: 5230726634512287836
+    second: Link attack_341
+  - first:
+      213: 8931992672973733677
+    second: Link attack_342
+  - first:
+      213: -7854116864751718252
+    second: Link attack_343
+  - first:
+      213: -4075615748898417262
+    second: SpinAttackLeft2
+  - first:
+      213: -4199207862068492701
+    second: SpinAttackLeft3
+  - first:
+      213: 1342463061307250048
+    second: SpinAttackLeft4
+  - first:
+      213: 8331750827863168557
+    second: SpinAttackLeft5
+  - first:
+      213: -8048817124396652383
+    second: SpinAttackLeft8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpinAttack
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1167
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b444479e758d69800800000000000000
+      internalID: 618919870900487243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1167
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6def1e0338c4a63b0800000000000000
+      internalID: -5518514267044577578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1167
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5992044b1dd4170a0800000000000000
+      internalID: -6885636792205170283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1167
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c423363e8c195ae0800000000000000
+      internalID: -1560184398786911033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1167
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b0d05f6261e10b0800000000000000
+      internalID: -5756138917157074075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1163
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf16913fdff535dc0800000000000000
+      internalID: -3651469328557448708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1163
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaded1378239b750800000000000000
+      internalID: 6321139108229864143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1167
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f600ae6f46be68e0800000000000000
+      internalID: -1698219557197445387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1167
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6289b264a9456ca0800000000000000
+      internalID: -6024327956158381457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1167
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19974f47efe15b5e0800000000000000
+      internalID: -1894573990006720111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack11
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1167
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a597c19be34f1d8d0800000000000000
+      internalID: -2823206941153789606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack12
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1167
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11574befca007f6d0800000000000000
+      internalID: -2956893887337827055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack13
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1167
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a8f54fc2477d930800000000000000
+      internalID: 4167927716581968456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack14
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1167
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c22fbfb8da1b1970800000000000000
+      internalID: 8726598221192700610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack15
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1167
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00126a20ec0cafde0800000000000000
+      internalID: -1298513551502728960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack16
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1167
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0a125acca1c8710800000000000000
+      internalID: 1696760625857929400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttack17
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1167
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e076108648c175ca0800000000000000
+      internalID: -6028318221205936370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1078
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a4b2501a0917260800000000000000
+      internalID: 7093609909336099335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1078
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2951ce5e1118077c0800000000000000
+      internalID: -4075615748898417262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1074
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3664163a2ba69b5c0800000000000000
+      internalID: -4199207862068492701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1074
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0855d45aa0361a210800000000000000
+      internalID: 1342463061307250048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1078
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26d9d30c3350a370800000000000000
+      internalID: 8331750827863168557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1078
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7ca9902f53e9090800000000000000
+      internalID: -8025918172268148818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1078
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffe9fba3cd60f070800000000000000
+      internalID: 8138125213829820415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1078
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8a146487bdc4090800000000000000
+      internalID: -8048817124396652383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft9
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1078
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cc6321913f21f30800000000000000
+      internalID: 4544962262975564932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1078
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c331325664299d9a0800000000000000
+      internalID: -6207769780311354564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft11
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1078
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d18eea46a07c9200800000000000000
+      internalID: 188149143966745045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft12
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1078
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e17dc99bfca42660800000000000000
+      internalID: 7360197887647379940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft13
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1078
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c1f3414e72c2970800000000000000
+      internalID: 8731397638110256241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1078
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db5a088ad5fc9120800000000000000
+      internalID: 2422081018552540121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft15
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1078
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c8e1e980dfe8e80800000000000000
+      internalID: -8174318060176503716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft16
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1078
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79adca619c05a3550800000000000000
+      internalID: 6141309866472168087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft17
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1078
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6659cbd7bca7aca50800000000000000
+      internalID: 6542176423115527526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinAttackLeft18
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1078
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc1c461850976780800000000000000
+      internalID: -8689818247982473990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 970
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32045b69d9b6ca70800000000000000
+      internalID: 8846962861475627583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 966
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee5451e6447ed000800000000000000
+      internalID: 62615292606701291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldAttack
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 962
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1979dd81f367dd130800000000000000
+      internalID: 3593158091083716497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldAttack2
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 962
+        width: 25
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59d30fec13b24550800000000000000
+      internalID: 6143669778537240927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldAttack3
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 960
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d4c6b077e87bf10800000000000000
+      internalID: 2285451977857715484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldAttack4
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 962
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c366a190ee75650800000000000000
+      internalID: 6221703133100653582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIces2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 866
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16719412b6f77970800000000000000
+      internalID: 8752735645527537179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttackEnemy2
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 864
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bc2b0b856812f40800000000000000
+      internalID: 5701986318707510047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIces
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 862
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6182d20de31cdc0800000000000000
+      internalID: -3620543561597446432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotionIces
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 879
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1035bd4577a7640800000000000000
+      internalID: 5078502736154263988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIces
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 879
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1100b523a4da40700800000000000000
+      internalID: 505719592356347921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageIces2
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 878
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb56551d73ff08f0800000000000000
+      internalID: -571970909098320959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttackEnemy
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 903
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c446986ae27c06b20800000000000000
+      internalID: 3125717144571569228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttackEnemy3
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 842
+        width: 119
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9dbb4546da76800800000000000000
+      internalID: 605643321334552997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIces3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 866
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445091d0353fd68a0800000000000000
+      internalID: -6310119964848618172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIces4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 866
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49edd060685d9a150800000000000000
+      internalID: 5884469159740169876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIces5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 866
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ba4d1d28074fde0800000000000000
+      internalID: -1300290685234795694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIces6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 866
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07244e3a8bedfdb90800000000000000
+      internalID: -7214803193419251088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIces7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 866
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7650ec547e48630800000000000000
+      internalID: 3928519061969135580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIces8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 866
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77551b5b4d6fdbf0800000000000000
+      internalID: -297398879965063297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIces9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 866
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030d5297fe62ca6d0800000000000000
+      internalID: -2977962443627179984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIces10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 866
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7b4d3552e581d70800000000000000
+      internalID: 9014058168595298238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIces11
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 866
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd299765686d5aa0800000000000000
+      internalID: -6170661129688633868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIces12
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 866
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd518b7d4b3c14f0800000000000000
+      internalID: -856744625136640556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIces
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 838
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9310ee94e333850800000000000000
+      internalID: 6355491986396494262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIces2
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 838
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3355b6641e02e0a40800000000000000
+      internalID: 5336238760401786163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIces3
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 819
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3955b2e60d1150d30800000000000000
+      internalID: 4396940198096360851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowIces4
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 819
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95620619a0d7dda0800000000000000
+      internalID: -5920033760517921377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowFire
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 704
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8a43b29f04d8b60800000000000000
+      internalID: 7749921972690397365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowFire2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 708
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcb37026fcfbade0800000000000000
+      internalID: -1320683931666498307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowFire3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 708
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cf4703f73be1e20800000000000000
+      internalID: 3323290933901196407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowFire4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 708
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0781958b10a2d21c0800000000000000
+      internalID: -4526915863561299856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowFire5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 708
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26c44725f7f4d520800000000000000
+      internalID: 2726076306763859498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowFire6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 708
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9369963cbc0c760800000000000000
+      internalID: 7476199421585537490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowFire7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 708
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33552ac62f2402630800000000000000
+      internalID: 3900190886274946355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowFire8
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 708
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fb0f0b7f62806f0800000000000000
+      internalID: -718281295298248810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowFire9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 708
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004c9d96f8d7f41b0800000000000000
+      internalID: -5670175350926490624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowFire10
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 708
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01169daf270c4c6b0800000000000000
+      internalID: -5276881263304023792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowFire11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 708
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9397c4397116ef4f0800000000000000
+      internalID: -793089730487224007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowFire12
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 708
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940286dba524dcc50800000000000000
+      internalID: 6687073979207262281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 644
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39dfc87ba3b272e0800000000000000
+      internalID: -2129442124745156294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 640
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1be1f4f29a3f4dc0800000000000000
+      internalID: -3652636369925051621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 641
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ded69c3cfaf19120800000000000000
+      internalID: 2418990436129890004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 641
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7079211fdd01cb10800000000000000
+      internalID: 1999894961246007423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowFire
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 655
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2d66d9106137d50800000000000000
+      internalID: 6733750064040563400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowFire2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 655
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc16fda19a3f5ad00800000000000000
+      internalID: 983460001276191180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowFire3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 626
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874ffc83c6a786490800000000000000
+      internalID: -7752812153290099592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFire
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 631
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41333bff27dbdff0800000000000000
+      internalID: -10177973060423350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFire2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 630
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e4a4a1e2b53d70800000000000000
+      internalID: 9022314110706312531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 546
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945423cbf698e70e0800000000000000
+      internalID: -2270226049156364983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 546
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96db91af27409240800000000000000
+      internalID: 4796411873049958044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 546
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1c34e27856c5220800000000000000
+      internalID: 2475965526418113022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow4
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 546
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2279d212edd9bc0800000000000000
+      internalID: -3774616678586440977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow5
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 546
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203754f7b6e804ed0800000000000000
+      internalID: -2431787206432165118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow6
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 546
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2b4abe1b5718b60800000000000000
+      internalID: 7746602241077064361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 591
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884fa17f196f64570800000000000000
+      internalID: 8450712857583744136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowSword
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 544
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc47c47a8fffe720800000000000000
+      internalID: 2877799657042824409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowSword2
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 548
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7902aee2f79422f10800000000000000
+      internalID: 2243436374980698263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowSword3
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 548
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb05862beefb38b0800000000000000
+      internalID: -5171259461187859531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowSword4
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 548
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809ec628e28eff600800000000000000
+      internalID: 504376969743100168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowSword5
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 548
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23c8aaad6ae1e740800000000000000
+      internalID: 5179678803188302634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowSword6
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 548
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee6ec3debaf36a30800000000000000
+      internalID: 4207482174398426851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow2
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 569
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99c60a0288ead530800000000000000
+      internalID: 3880669674144713115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkOcarine
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 532
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295cd2156e7457720800000000000000
+      internalID: 2843257794284340626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkOcarine2
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 532
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d108752dafff7c490800000000000000
+      internalID: -7725925182994939875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkOcarine3
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 532
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330922d9858342610800000000000000
+      internalID: 1595462121240563763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ocarine
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 566
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb93997dbe3be8d0800000000000000
+      internalID: -2816088158480655385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow3
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 545
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd7335fe138e3ca0800000000000000
+      internalID: -6035242281643835950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 482
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69befaa29c53ac30800000000000000
+      internalID: 4369437848483314028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 482
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3b7f08db64f5b00800000000000000
+      internalID: 819451436931199953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 482
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5ad8b62533445a0800000000000000
+      internalID: -6538044329950337556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 482
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d504decd1714ad0800000000000000
+      internalID: -2719767506267906664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 482
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b7ec0e19e6c5550800000000000000
+      internalID: 6150912763902196540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 482
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86992218afa013550800000000000000
+      internalID: 6138699838107326824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 482
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5728b40a853a0c90800000000000000
+      internalID: -7202885787124750500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowSword7
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 482
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db08495a4ffe3e810800000000000000
+      internalID: 1793540910652620989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowSword8
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 482
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576d1a0bcb0a498f0800000000000000
+      internalID: -534625723472554379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowSword9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 482
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c981b84a9c826f10800000000000000
+      internalID: 2261524557165857224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowSword10
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 482
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e6c7b5bd46e2c30800000000000000
+      internalID: 4336514384499863169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowSword11
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 482
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb23a2e3ddb9d9b0800000000000000
+      internalID: -5054800389008577616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowSword12
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 482
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3f34baa7971e3a0800000000000000
+      internalID: -6637890808001072185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowSword13
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 482
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ac63821bec88d40800000000000000
+      internalID: 5586942598032312874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 283
+        width: 161
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae521aa171edb5db0800000000000000
+      internalID: -4802000386848119318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack5
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 314
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5aaa9a70fd44b10800000000000000
+      internalID: 1964940561444677111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack4
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 291
+        width: 119
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41ff71b22e1c4fe0800000000000000
+      internalID: -1203553866059091634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack6
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 336
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197f87d9e2555abf0800000000000000
+      internalID: -313750940333574255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack7
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 336
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb34276db695a8c20800000000000000
+      internalID: 3209476004149085119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 156
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da409cbe90bdbb50800000000000000
+      internalID: 6610634023864650452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 142
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feccb51fa215a1b0800000000000000
+      internalID: -5646086014645776650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 130
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064b7f4c05081d2b0800000000000000
+      internalID: -5561522980435544992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack11
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 119
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714b4b08122b4ea40800000000000000
+      internalID: 5396634110459687959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack12
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 106
+        width: 191
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f75ff3bddaf5120800000000000000
+      internalID: 2404831883221630851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 107
+        width: 207
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec695e7f2c4c18b0800000000000000
+      internalID: -5180181704515949330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f20e1ec4ebf5d70800000000000000
+      internalID: 9034148614944862088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 33
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5375e1d31f2f0bd20800000000000000
+      internalID: 3292398445534271285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 33
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af519fbe0e2d9bb0800000000000000
+      internalID: -4927731776395059296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 33
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1f40b350759aca0800000000000000
+      internalID: -6005172948145212945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 33
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ae110fcda524700800000000000000
+      internalID: 523080411695409710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 33
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9561164c6fdeab0800000000000000
+      internalID: -4977050689871652413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBall
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 37
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a996b982f2006f0800000000000000
+      internalID: -720524088926692764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBall2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 36
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733b0b45a25ea7730800000000000000
+      internalID: 3997759589216990007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBall3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 39
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e38cd05698a31960800000000000000
+      internalID: 7571580762095125473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBall4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 37
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb2e05e4210f88d0800000000000000
+      internalID: -2842051581874132002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBall5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 38
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b93b44a7905ab30800000000000000
+      internalID: 4297851840138287984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBall6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 36
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668cb1c6812b40270800000000000000
+      internalID: 8215887438193346662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBall7
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 40
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0be2fd871db32f0800000000000000
+      internalID: -991968975834402644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBall8
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 36
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01e6466c8be776b0800000000000000
+      internalID: -5298507448334229236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBall9
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 37
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccff56e54e9a57a0800000000000000
+      internalID: -6387619098416644921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeIces
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 807
+        width: 97
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dbe2d5f1b0f2040800000000000000
+      internalID: 4624927571668024652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttackEnemy4
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 829
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d724335d64a40ba10800000000000000
+      internalID: 1923118708972274301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttackEnemy5
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 633
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919059b6ad9e33f20800000000000000
+      internalID: 3401319267911928089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttackEnemy6
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 634
+        width: 192
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec4eb8a205c89720800000000000000
+      internalID: 2853246979150859502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 283
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec6dc7ff1c9cfc70800000000000000
+      internalID: 9006245015949503719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 283
+        width: 192
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43796462be998850800000000000000
+      internalID: 6379804836173017930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
